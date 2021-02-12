@@ -12,7 +12,7 @@
             <!-- random image -->
             <div class="caption left-align">
                 <h2 class="indigo-text darken-4">SLOGAN!</h2>
-                <h3 class="indigo-text darken-1">"Caminado hacia el futuro, con toda la comodidad del mundo".</h3>
+                <h3 class="indigo-text darken-1">"Caminando hacia el futuro, con toda la comodidad del mundo".</h3>
             </div>
         </li>
         <li>
@@ -28,7 +28,7 @@
                     <div class="card-panel z-depth-5 green darken-4"><!--Color de la tarjeta y la sombra-->
                     <span class="center card-title lime-text text-lighten-4">Buscar</span><!--Titulo de la tarjeta-->
                     <div class="input-field offset-s5"><!--Agrega la tarjeta de la busqueda-->
-                    <i class='material-icons prefix'>search</i>
+                    <i class='material-icons prefix'>Search</i>
                     <input class='white-text' id='buscar' type='text' name='busqueda'/>
                     <label class='white-text' for='buscar'>Buscador</label>
                         <div>
@@ -46,7 +46,7 @@
                 <div>
                 </form > 
 <div class='container'>
-<h4 class='center'>NUESTROS PRODUCTOS</h4>
+<h4 class='center'>NUESTROS PRODUCTOSs</h4>
 <div class='row'>
 <?php
                 foreach($data as $categoria){
